@@ -1,6 +1,6 @@
 flask==0.12.2
 requests==2.18.4
 twilio==6.35.1
-opencv-python==3.4.2.17
+opencv-python==3.4.7.28
 numpy==1.18.0
 pysolar==0.7
